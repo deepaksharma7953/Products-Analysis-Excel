@@ -52,8 +52,4 @@ Price sensitivity is a key factor in this market. Products that maintained or re
 This project is open for improvements and suggestions, especially in the areas of data preprocessing and advanced pivot table techniques.
 
 ## Contact
-For any questions or suggestions, please reach out at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-This README provides a comprehensive guide to your project, outlining the objectives, processes, and key insights. Feel free to modify it to better suit your project's specific requirements or to add any additional details.
+For any questions or suggestions, please reach out at [deepaksharma7953@gmail.com].
