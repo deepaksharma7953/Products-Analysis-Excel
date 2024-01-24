@@ -12,11 +12,6 @@ The primary goal is to produce a well-structured report that enables management 
 
 This project is suitable for intermediate and advanced students who are looking to apply crucial analysis techniques in a real-world context. It is highly recommended to have completed courses in 'Introduction to Excel' and 'Data Analysis with Excel Pivot Tables' before attempting this project.
 
-## Prerequisites
-
-- Basic to advanced knowledge in Excel.
-- Familiarity with data analysis concepts and pivot tables in Excel.
-- Completion of 'Introduction to Excel' and 'Data Analysis with Excel Pivot Tables' courses (recommended).
 
 ## Project Structure
 
