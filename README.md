@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Excel project is designed to provide a comprehensive analysis of business performance in the baby care market. By utilizing Excel pivot tables and slicers, you will create a report that offers a 360-degree view of business performance across various dimensions such as brands, package types, package sizes, and stock keeping units. This project will enhance your data preprocessing skills and your proficiency in working with Excel pivot tables, using real-world Fast-Moving Consumer Goods (FMCG) data.
+This Excel project is designed to provide a comprehensive analysis of business performance in the baby care market. By utilizing Excel pivot tables and slicers, I created a report that offers a 360-degree view of business performance across various dimensions such as brands, package types, package sizes, and stock keeping units. This project will enhanced my data preprocessing skills and your proficiency in working with Excel pivot tables, using real-world Fast-Moving Consumer Goods (FMCG) data.
 
 ## Objective
 
