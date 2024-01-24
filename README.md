@@ -1,6 +1,3 @@
-# Products-Analysis-Excel
-Understanding Market Dynamics and Manufacturer Performance in the Baby Care Segment
-
 # Manufacturer Performance in the Baby Care Market: Excel Project
 
 ## Project Overview
